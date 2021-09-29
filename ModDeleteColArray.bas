@@ -13,7 +13,7 @@ Option Explicit
 '------------------------------
 
 
-Function DeleteColArray(Array2D, DeleteCol&)
+Public Function DeleteColArray(Array2D, DeleteCol&)
 '二次元配列の指定列を消去した配列を出力する
 '20210917
 
